@@ -8,4 +8,4 @@
 - ⚡ ZzzZZ
 
 
-![Gia’s GitHub stats](https://github-readme-stats.vercel.app/api?username=giamnesia&theme=synthwave&show_icons=true&count_private=true “Gia’s GitHub Stats”)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giamnesia&theme=synthwave “Andres’ Top Languages Card”)
