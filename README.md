@@ -7,7 +7,7 @@
 - 📫 Feel free to reach me @giamnesia
 - ⚡ ZzzZZ
 
-[![Gia's GitHub stats](https://github-readme-stats.vercel.app/api?username=giamnesia&show_icons=true&theme=radical)](https://github.com/giamnesia/github-readme-stats)
+[![Jiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=giamnesia&show_icons=true&theme=radical)](https://github.com/giamnesia/github-readme-stats)
 
 
 <a href="https://github.com/giamnesia">
